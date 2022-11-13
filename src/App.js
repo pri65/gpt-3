@@ -11,7 +11,7 @@ const App = () => {
         <h1>GPT-3</h1>
         <Article />
         <Brand />
-        < Cta />
+        <Cta />
         <Feature />
         <Navbar />
     </div>
