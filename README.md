@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+## GPT-3 
+> GPT-3 is a neural network machine learning model trained using internet data to generate any type of text.It is fully responsive website with modern UI/Ux designs in Reactjs. We have created the landing page of this website.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Built With
 
-## Available Scripts
+- JavaScript
+- ReactJs
+- HTML
+- CSS3
 
-In the project directory, you can run:
+## Live Demo 
 
-### `npm start`
+[Live Demo Link](https://gpt3-gpt.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Desktop View
+- Hero Banner
+![Screenshot (49)](https://user-images.githubusercontent.com/101036458/213248566-ca9241b0-48a3-4079-ba64-72d1f3ccaf39.png)
 
-### `npm test`
+## Tablet View
+- About Us
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (50)](https://user-images.githubusercontent.com/101036458/213248701-8ba80c92-38d1-4b44-9049-7530c88c09cd.png)
 
-### `npm run build`
+![Screenshot (51)](https://user-images.githubusercontent.com/101036458/213248846-4f2f3631-b87d-43f6-bdfd-6c1fc92699d7.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Mobile View
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (52)](https://user-images.githubusercontent.com/101036458/213248948-428631f7-a89e-459c-a475-c1a89b7a0a9e.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (53)](https://user-images.githubusercontent.com/101036458/213249045-79539681-b094-4c45-8e08-819da02b798a.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🤝 Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions, issues and feature requests are welcome! Start by:
 
-## Learn More
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+* Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Authors
 
-### Code Splitting
+👤 **Priyanka soni**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Github: [@githubhandle](https://github.com/pri65)
+- Linkedin: [linkedin](https://www.linkedin.com/in/priyankaso/)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐ if you like this project!
